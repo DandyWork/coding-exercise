@@ -18,4 +18,5 @@ Ensure withdrawals don't allow negative balances.
 Use the requests library to fetch data from JSONPlaceholder (e.g., /todos) and print:
     •    Total number of todos.
     •    Number of completed vs not completed.
+
 5.Using pytest, write tests for your Palindrome Checker and BankAccount Class.
